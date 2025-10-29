@@ -2,7 +2,7 @@
 - MNIST dataset을 활용하여 MLP를 사용한 분류 모델을 만드는 과제물입니다.
 ---
 ### Goals
-- This repository covers the assignments for **Introduction to Artificial Intelligence**, lectured by *professor Inkyu Moon*.
+- This repository covers the assignments for **[MECH307] Introduction to Artificial Intelligence**, lectured by *professor Inkyu Moon*.
 - The goal is to create **MLP model to classify the numbers in the MNIST dataset**, using the ***handwriting images and data augmentation***.
 
 
